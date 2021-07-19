@@ -1,2 +1,2 @@
 # PHP-form-validation-
-Simple php form. Can be viewed at laels.xyz.
+Simple php form with validation and button animation. Can be viewed at laels.xyz.
